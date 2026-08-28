@@ -3,7 +3,7 @@ project:
   title:        "mips"      # Project title
   author:       "ahmed_farag"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  description:  "Explain how your project works The project implements a simplified 16-bit MIPS processor using a single-cycle architecture. The processor fetches a 16-bit instruction from instruction memory, decodes the instruction, reads the required operands from the register file, performs the required operation using the ALU, accesses data memory when required, and writes the result back to the register file"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
 
